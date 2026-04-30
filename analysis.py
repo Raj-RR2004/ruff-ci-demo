@@ -1,4 +1,4 @@
-def analyze():
+def analyze() -> None:
     print("done")
 
 
